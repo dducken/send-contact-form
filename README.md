@@ -1,7 +1,7 @@
 # send-contact-form
-Envió de formulario de contacto utilizando Form Submit.
-## Tutorial en youtube sobre como recibir un mensaje a nuestro correo desde un formulario de contacto. 
-## Utilizando la plataforma Form Submit, esta recibe el mensaje y lo envia a nuestro correo.
+## Envío  de formulario de contacto utilizando Form Submit.
+### Tutorial en youtube sobre como recibir un mensaje a nuestro correo desde un formulario de contacto. 
+### Utilizando la plataforma Form Submit, esta recibe el mensaje y lo envia a nuestro correo.
 
 ![image](https://user-images.githubusercontent.com/64493715/134988218-bb959bd0-f4d8-4c7b-b008-bfbc30f1c386.png)
 
